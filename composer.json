@@ -1,0 +1,23 @@
+{
+    "name": "openpsa/org-openpsa-notifications",
+    "type": "midcom-package",
+    "description": "System for sending notifications to users based on their preferences",
+    "keywords": ["midcom", "notifications"],
+    "homepage": "https://openpsa2.org",
+    "license": "LGPL-2.1-or-later",
+    "authors": [
+        {
+            "name": "Andreas Flack",
+            "email": "flack@contentcontrol-berlin.de",
+            "homepage": "http://www.contentcontrol-berlin.de/"
+        }
+    ],
+    "require": {
+        "openpsa/midcom-core": "dev-main"
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": ["lib"]
+    }
+}

@@ -1,0 +1,24 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE en
+
+---STRING email
+Email
+---STRINGEND
+
+---STRING inherit
+Inherited
+---STRINGEND
+
+---STRING none
+No notification
+---STRINGEND
+
+---STRING notification sent to %s
+Notification sent to %s
+---STRINGEND
+
+---STRING org.openpsa.notifications
+Notification management
+---STRINGEND
+

@@ -1,0 +1,23 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE fi
+
+---STRING email
+Sähköposti
+---STRINGEND
+
+---STRING inherit
+Peritty
+---STRINGEND
+
+---STRING none
+Ei ilmoitusta
+---STRINGEND
+
+---STRING notification sent to %s
+Ilmoitus lähetetty käyttäjälle %s
+---STRINGEND
+
+---STRING org.openpsa.notifications
+Ilmoitusten hallinta
+---STRINGEND
